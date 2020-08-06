@@ -5,6 +5,7 @@ messages sent between tangible user interface and URscooter
 <h2>btn_msgs.msg</h2>
 
 array of all six button states
+
 array of joystick x and y
 
 send by tui interface
