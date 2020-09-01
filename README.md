@@ -12,6 +12,6 @@ send by tui interface
 
 <h2>led_msgs.msg</h2>
 
-array of sate of lights inside buttons capable of lighting up
+array of state of lights inside buttons capable of lighting up
 
 sent by scooter
