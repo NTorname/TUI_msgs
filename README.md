@@ -19,3 +19,8 @@ send by tui interface
 array of state of lights inside buttons capable of lighting up
 
 sent by scooter
+
+<h2>tui.ino</h2>
+
+code that goes on the arduino inside the tui
+needs a rewrite because message package is now part of ur_scooter
